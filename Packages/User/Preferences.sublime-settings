@@ -46,11 +46,15 @@
 		"testdox": true,
 		"verbose": true
 	},
+	"phpunit.vi_keymaps": true,
 	"scroll_past_end": true,
-	"show_panel_on_build": false,
+	"show_panel_on_build": true,
 	"tab_size": 4,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"use_simple_full_screen": true,
-	"vintage_start_in_command_mode": true
+	"vintage_start_in_command_mode": true,
+	"phpunit.options": {
+		"testdox": false,	
+	},
 }

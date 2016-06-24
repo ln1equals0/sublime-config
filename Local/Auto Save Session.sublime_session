@@ -18,11 +18,11 @@
 		"/Users/Capricorn/Code"
 	],
 	"last_version": 3114,
-	"last_window_id": 247,
+	"last_window_id": 252,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 855.0,
+		"new_window_height": 929.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -253,21 +253,41 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 354.0,
-				"last_filter": "instal",
+				"height": 343.0,
+				"last_filter": "phpunit",
 				"selected_items":
 				[
 					[
-						"instal",
-						"Package Control: Install Package"
+						"phpunit",
+						"PHPUnit: Toggle --testdox Option"
 					],
 					[
 						"remove",
 						"Package Control: Remove Package"
 					],
 					[
+						"run",
+						"PHPUnit: Run All Tests"
+					],
+					[
+						"phpunit re",
+						"PHPUnit: Run Single Test"
+					],
+					[
+						"package",
+						"Package Control: Disable Package"
+					],
+					[
 						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"php co",
+						"PHPCompanion:Find Use"
 					],
 					[
 						"remov",
@@ -304,10 +324,6 @@
 					[
 						"cdn",
 						"Cdnjs: Import Script"
-					],
-					[
-						"phpunit",
-						"PHPUnit: Run All Tests"
 					],
 					[
 						"phpuni",
@@ -423,10 +439,6 @@
 					],
 					[
 						"remove pac",
-						"Package Control: Remove Package"
-					],
-					[
-						"package",
 						"Package Control: Remove Package"
 					],
 					[
@@ -550,7 +562,7 @@
 						"Set Syntax: JavaScript"
 					]
 				],
-				"width": 557.0
+				"width": 449.0
 			},
 			"console":
 			{
@@ -578,6 +590,16 @@
 			},
 			"file_history":
 			[
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunit/Preferences.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/Capricorn/Code/laravel_testing/resources/views/welcome.blade.php",
+				"/Users/Capricorn/Code/laravel_testing/composer.json",
+				"/Users/Capricorn/Code/laravel_testing/tests/ExampleTest.php",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunitkit/Preferences.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunitkit/Default (OSX).sublime-keymap",
+				"/Users/Capricorn/Code/laravel_testing/tests/TestCase.php",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/php-grammar/README.md",
 				"/Users/Capricorn/Code/webcam_video/index.html",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/vue_header.sublime-snippet",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/meta_token.sublime-snippet",
@@ -600,7 +622,6 @@
 				"/Users/Capricorn/Code/testjs/readme.md",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/vue-cdn",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Sublime-Text--cdnjs/cdnjs.sublime-settings",
-				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunitkit/Preferences.sublime-settings",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Cache/SimplePHPUnit/SimplePHPUnit.hidden-tmTheme.cache",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Installed Packages/Fix Mac Path.sublime-package",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/SimplePHPUnit/SimplePHPUnit.sublime-settings",
@@ -656,7 +677,6 @@
 				"/Users/Capricorn/Code/email-confirmation/resources/views/app.blade.php",
 				"/Users/Capricorn/Code/email-confirmation/resources/views/flash.blade.php",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/Textfied.sublime-snippet",
-				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/validation-errors.sublime-snippet",
 				"/usr/local/etc/php/7.0/php.ini",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/PHP Method.sublime-snippet",
@@ -685,7 +705,6 @@
 				"/Users/Capricorn/Code/factory/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
 				"/Users/Capricorn/Code/factory/database/migrations/2016_05_10_202612_create_lessons_table.php",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/Database_Seeder_Function.sublime-snippet",
-				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 				"/Users/Capricorn/Code/factory/database/seeds/LessonsTableSeeder.php",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
 				"/Users/Capricorn/Code/factory/database/seeds/UsersTableSeeder.php",
@@ -698,14 +717,7 @@
 				"/Users/Capricorn/.tumx.conf",
 				"/Users/Capricorn/.vimrc",
 				"/Users/Capricorn/.tmux.conf",
-				"/Users/Capricorn/.zshr",
-				"/Users/Capricorn/.homestead/Homestead.yaml",
-				"/Users/Capricorn/Code/Homestead.yaml",
-				"/Users/Capricorn/Code/Vagrantfile",
-				"/Users/Capricorn/Code/project/app/Http/routes.php",
-				"/Users/Capricorn/.homestead/aliases",
-				"/Users/Capricorn/Documents/html_lesson/project/app/Http/Controllers/doit.php",
-				"/Users/Capricorn/Documents/html_lesson/project/app/Http/routes.php"
+				"/Users/Capricorn/.zshr"
 			],
 			"find":
 			{
@@ -796,7 +808,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 317.0
+				"height": 404.0
 			},
 			"output.find_results":
 			{
@@ -814,6 +826,26 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"examp",
+						"tests/ExampleTest.php"
+					],
+					[
+						"welcome",
+						"resources/views/welcome.blade.php"
+					],
+					[
+						"exam",
+						"tests/ExampleTest.php"
+					],
+					[
+						"test",
+						"tests/TestCase.php"
+					],
+					[
+						"comp",
+						"composer.json"
+					],
 					[
 						"welcom",
 						"resources/views/welcome.blade.php"
@@ -851,10 +883,6 @@
 						"resources/assets/js/main.js"
 					],
 					[
-						"welcome",
-						"resources/views/welcome.blade.php"
-					],
-					[
 						"upload",
 						"app/Http/Controllers/UploadController.php"
 					],
@@ -877,10 +905,6 @@
 					[
 						"testexamp",
 						"tests/ExampleTest.php"
-					],
-					[
-						"test",
-						"tests/TestCase.php"
 					],
 					[
 						"pac",
@@ -1407,14 +1431,6 @@
 			"buffers":
 			[
 				{
-					"file": "/Users/Capricorn/Code/laravel_testing/composer.json",
-					"settings":
-					{
-						"buffer_size": 1272,
-						"line_ending": "Unix"
-					}
-				},
-				{
 					"file": "/Users/Capricorn/Code/laravel_testing/tests/ExampleTest.php",
 					"settings":
 					{
@@ -1450,13 +1466,25 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 354.0,
+				"height": 343.0,
 				"last_filter": "phpunit",
 				"selected_items":
 				[
 					[
 						"phpunit",
-						"PHPUnit: Show Test Results"
+						"PHPUnit: Toggle --testdox Option"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"run",
+						"PHPUnit: Run All Tests"
+					],
+					[
+						"phpunit re",
+						"PHPUnit: Run Single Test"
 					],
 					[
 						"package",
@@ -1473,10 +1501,6 @@
 					[
 						"php co",
 						"PHPCompanion:Find Use"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
 					],
 					[
 						"remov",
@@ -1751,7 +1775,7 @@
 						"Set Syntax: JavaScript"
 					]
 				],
-				"width": 944.0
+				"width": 449.0
 			},
 			"console":
 			{
@@ -1783,6 +1807,14 @@
 			],
 			"file_history":
 			[
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunit/Preferences.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/Capricorn/Code/laravel_testing/resources/views/welcome.blade.php",
+				"/Users/Capricorn/Code/laravel_testing/composer.json",
+				"/Users/Capricorn/Code/laravel_testing/tests/ExampleTest.php",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunitkit/Preferences.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunitkit/Default (OSX).sublime-keymap",
 				"/Users/Capricorn/Code/laravel_testing/tests/TestCase.php",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/php-grammar/README.md",
 				"/Users/Capricorn/Code/webcam_video/index.html",
@@ -1807,7 +1839,6 @@
 				"/Users/Capricorn/Code/testjs/readme.md",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/vue-cdn",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Sublime-Text--cdnjs/cdnjs.sublime-settings",
-				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunitkit/Preferences.sublime-settings",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Cache/SimplePHPUnit/SimplePHPUnit.hidden-tmTheme.cache",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Installed Packages/Fix Mac Path.sublime-package",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/SimplePHPUnit/SimplePHPUnit.sublime-settings",
@@ -1863,7 +1894,6 @@
 				"/Users/Capricorn/Code/email-confirmation/resources/views/app.blade.php",
 				"/Users/Capricorn/Code/email-confirmation/resources/views/flash.blade.php",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/Textfied.sublime-snippet",
-				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/validation-errors.sublime-snippet",
 				"/usr/local/etc/php/7.0/php.ini",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/PHP Method.sublime-snippet",
@@ -1892,7 +1922,6 @@
 				"/Users/Capricorn/Code/factory/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
 				"/Users/Capricorn/Code/factory/database/migrations/2016_05_10_202612_create_lessons_table.php",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/Database_Seeder_Function.sublime-snippet",
-				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 				"/Users/Capricorn/Code/factory/database/seeds/LessonsTableSeeder.php",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
 				"/Users/Capricorn/Code/factory/database/seeds/UsersTableSeeder.php",
@@ -1905,12 +1934,7 @@
 				"/Users/Capricorn/.tumx.conf",
 				"/Users/Capricorn/.vimrc",
 				"/Users/Capricorn/.tmux.conf",
-				"/Users/Capricorn/.zshr",
-				"/Users/Capricorn/.homestead/Homestead.yaml",
-				"/Users/Capricorn/Code/Homestead.yaml",
-				"/Users/Capricorn/Code/Vagrantfile",
-				"/Users/Capricorn/Code/project/app/Http/routes.php",
-				"/Users/Capricorn/.homestead/aliases"
+				"/Users/Capricorn/.zshr"
 			],
 			"find":
 			{
@@ -1929,6 +1953,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"agej",
+					"age",
 					"get_file_contents",
 					" }}",
 					"app",
@@ -1999,41 +2025,11 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/Capricorn/Code/laravel_testing/composer.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1272,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										380,
-										380
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
 							"file": "/Users/Capricorn/Code/laravel_testing/tests/ExampleTest.php",
 							"semi_transient": false,
 							"settings":
@@ -2041,12 +2037,23 @@
 								"buffer_size": 403,
 								"regions":
 								{
+									"bookmark_e":
+									{
+										"flags": 144,
+										"regions":
+										[
+											[
+												208,
+												208
+											]
+										]
+									}
 								},
 								"selection":
 								[
 									[
-										401,
-										401
+										63,
+										63
 									]
 								],
 								"settings":
@@ -2056,7 +2063,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 270.0,
+								"translation.y": 102.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -2098,14 +2105,14 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 317.0
+				"height": 404.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0 631 147 1436 877 0 0 1920 1057 ",
+			"position": "0 240 64 1436 951 0 0 1920 1057 ",
 			"project": "",
 			"replace":
 			{
@@ -2118,6 +2125,18 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"ex",
+						"tests/ExampleTest.php"
+					],
+					[
+						"examp",
+						"tests/ExampleTest.php"
+					],
+					[
+						"welcome",
+						"resources/views/welcome.blade.php"
+					],
 					[
 						"exam",
 						"tests/ExampleTest.php"
@@ -2167,10 +2186,6 @@
 						"resources/assets/js/main.js"
 					],
 					[
-						"welcome",
-						"resources/views/welcome.blade.php"
-					],
-					[
 						"upload",
 						"app/Http/Controllers/UploadController.php"
 					],
@@ -2181,10 +2196,6 @@
 					[
 						"inde",
 						"index.js"
-					],
-					[
-						"ex",
-						"tests/ExampleTest.php"
 					],
 					[
 						"example",
@@ -2512,7 +2523,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 247,
+			"window_id": 252,
 			"workspace_name": ""
 		}
 	],
