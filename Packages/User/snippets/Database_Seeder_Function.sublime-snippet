@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+use Illuminate\Database\Seeder;
+
+class ${1:Users}TableSeeder extends Seeder
+{
+    public function run()
+    {
+        ${2}
+    }
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>seeder</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>

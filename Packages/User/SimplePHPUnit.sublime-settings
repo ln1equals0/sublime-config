@@ -1,0 +1,4 @@
+{
+    // Full path to PHPUnit XLM configuration file
+    "phpunit_xml_config_file": "/../phpunit.xml"
+}

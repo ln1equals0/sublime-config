@@ -1,0 +1,114 @@
+[
+	{ "keys": ["ctrl+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+	{ "keys": ["j", "k"], "command": "exit_insert_mode",
+    "context":
+	    [
+	        { "key": "setting.command_mode", "operand": false },
+	        { "key": "setting.is_widget", "operand": false }
+	    ]
+	},
+	{ "keys": [",", "k"], "command": "toggle_side_bar", "context": [{"key": "setting.command_mode"}] },
+
+	{ "keys": ["ctrl+h"], "command": "move", "args": { "by": "characters", "forward": false }, 
+		"context":
+	    [
+	        { "key": "setting.command_mode", "operand": false },
+	        { "key": "setting.is_widget", "operand": false }
+	    ] },
+	{ "keys": ["ctrl+j"], "command": "move", "args": { "by": "lines", "forward": true }, 
+		"context":
+	    [
+	        { "key": "setting.command_mode", "operand": false },
+	        { "key": "setting.is_widget", "operand": false }
+	    ] },
+	{ "keys": ["ctrl+k"], "command": "move", "args": { "by": "lines", "forward": false }, 
+		"context":
+	    [
+	        { "key": "setting.command_mode", "operand": false },
+	        { "key": "setting.is_widget", "operand": false }
+	    ] },
+	
+	{ "keys": ["ctrl+l"], "command": "move", "args": { "by": "characters", "forward": true }, 
+		"context":
+	    [
+	        { "key": "setting.command_mode", "operand": false },
+	        { "key": "setting.is_widget", "operand": false }
+	    ]},
+
+	{ "keys": [",", "m"], "command": "next_view", "context": [{"key": "setting.command_mode"}]},
+	{ "keys": [",", "n"], "command": "prev_view", "context": [{"key": "setting.command_mode"}]},
+	{ "keys": [",", "w"], "command": "create_pane", "args": {"direction": "right", "give_focus": true}, "context": [{"key": "setting.command_mode"}]},
+	
+	{ "keys": [",", "-"], "command": "create_pane", "args": {"direction": "down", "give_focus": true}, "context": [{"key": "setting.command_mode"}]},
+	{ "keys": [",", "e"], "command": "destroy_pane", "args": {"direction": "self"}, "context": [{"key": "setting.command_mode"}] },
+	
+	{ "keys": ["ctrl+k"], "command": "travel_to_pane", "args": {"direction": "up"}, "context": [{"key": "setting.command_mode"}] },
+  	{ "keys": ["ctrl+l"], "command": "travel_to_pane", "args": {"direction": "right"}, "context": [{"key": "setting.command_mode"}] },
+  	{ "keys": ["ctrl+j"], "command": "travel_to_pane", "args": {"direction": "down"}, "context": [{"key": "setting.command_mode"}] },
+  	{ "keys": ["ctrl+h"], "command": "travel_to_pane", "args": {"direction": "left"}, "context": [{"key": "setting.command_mode"}] },
+  	{ "keys": [",", "a"], "command": "zoom_pane", "args": {"fraction": 0.9}, "context": [{"key": "setting.command_mode"}] },
+ 	{ "keys": [",", ",", "a"], "command": "unzoom_pane", "args": {}, "context": [{"key": "setting.command_mode"}] },
+
+ 	// like vim search tag in the current file
+	{ "keys": ["\\", "t"], "command": "show_overlay",  "args": {"overlay": "goto", "text": "@"} , "context": [{"key": "setting.command_mode"}] },
+
+	// jump between edit point
+	{ "keys": ["ctrl+o"], "command": "jump_back", "context": [{"key": "setting.command_mode"}]},
+	{ "keys": ["ctrl+i"], "command": "jump_forward", "context": [{"key": "setting.command_mode"}]},
+
+	{ "keys": [",", "d"], "command": "goto_definition", "context": [{"key": "setting.command_mode"}]},
+
+ 	//Map backspace to delete in command mode
+ 	{"keys": ["backspace"], "command": "set_action", "args": {
+    "action": "vi_delete",
+    "description": "Delete"},
+    "context": [{"key": "setting.command_mode"}]},
+
+    //close current tab
+	{ "keys": [",", "q"], "command": "close", "args": {}, "context": [{"key": "setting.command_mode"}] },
+
+	{ "keys": [",", "c"], "command": "toggle_comment", "args": {}, "context": [{"key": "setting.command_mode"}] },
+
+	{ "keys": [",", "j"], "command": "build", "args": {}, "context": [{"key": "setting.command_mode"}] },
+	// PHP Companion
+	{ "keys": ["f8"], "command": "insert_php_constructor_property" },
+	{ "keys": ["f9"], "command": "expand_fqcn" },
+	{ "keys": ["f10"], "command": "find_use" },
+
+	// Navigation in sidebar using vim key binding
+	{ "keys": ["h"], "command": "move", "args": {"by": "characters", "forward": false}, "context":
+    [ {"key": "control", "operand": "sidebar_tree"} ] },
+	{ "keys": ["j"], "command": "move", "args": {"by": "lines", "forward": true}, "context":
+    [ {"key": "control", "operand": "sidebar_tree"} ] },
+	{ "keys": ["k"], "command": "move", "args": {"by": "lines", "forward": false}, "context":
+    [ {"key": "control", "operand": "sidebar_tree"} ] },
+	{ "keys": ["l"], "command": "move", "args": {"by": "characters", "forward": true}, "context":
+    [ {"key": "control", "operand": "sidebar_tree"} ] },
+
+	{ "keys": ["super+s"], "command": "chain",
+	"args": {
+		"commands": [
+			["save"],
+			["exit_insert_mode"]	
+		]		
+	},
+    "context":
+	    [
+	        { "key": "setting.command_mode", "operand": false },
+	        { "key": "setting.is_widget", "operand": false }
+	    ]
+	},
+	{ "keys": ["ctrl+z"], "command": "chain",
+	"args": {
+		"commands": [
+			["save"],
+			["exit_insert_mode"]	
+		]		
+	},
+    "context":
+	    [
+	        { "key": "setting.command_mode", "operand": false },
+	        { "key": "setting.is_widget", "operand": false }
+	    ]
+	}
+]

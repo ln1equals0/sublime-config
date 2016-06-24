@@ -1,0 +1,56 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "bs3",
+			"selector": "text.html"
+		},
+		{
+			"characters": "te",
+			"selector": "text.html"
+		},
+		{
+			"characters": "va",
+			"selector": "text.html"
+		}
+	],
+	"bold_folder_labels": true,
+	"caret_extra_width": 1,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"font_face": "Source Code Pro for Powerline",
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"Bootstrap 3 Snippets",
+		"PHP",
+		"SimplePHPUnit"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"material_theme_small_tab": false,
+	"overlay_scroll_bars": "enabled",
+	"phpunit.options":
+	{
+		"no-coverage": true,
+		"testdox": true,
+		"verbose": true
+	},
+	"scroll_past_end": true,
+	"show_panel_on_build": false,
+	"tab_size": 4,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_simple_full_screen": true,
+	"vintage_start_in_command_mode": true
+}

@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Blade Snippets",
+		"Block Cursor Everywhere",
+		"Bootstrap 3 Snippets",
+		"Bootstrap 4 Snippets",
+		"cdnjs",
+		"Chain of Command",
+		"ChangeQuotes",
+		"Color Highlighter",
+		"Colorsublime",
+		"DocBlockr",
+		"Emmet",
+		"Fix Mac Path",
+		"GitGutter",
+		"HTML Snippets",
+		"Javascript Beautify",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Helper Completions",
+		"Markdown Preview",
+		"Material Theme",
+		"Origami",
+		"Package Control",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"php-grammar",
+		"php-snippets",
+		"phpunitkit",
+		"SideBarEnhancements",
+		"SimplePHPUnit",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-php",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
+		"Vuejs Snippets"
+	]
+}
