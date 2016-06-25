@@ -42,9 +42,7 @@
 	"overlay_scroll_bars": "enabled",
 	"phpunit.options":
 	{
-		"no-coverage": true,
-		"testdox": true,
-		"verbose": true
+		"testdox": false
 	},
 	"phpunit.vi_keymaps": true,
 	"scroll_past_end": true,
@@ -53,8 +51,5 @@
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"use_simple_full_screen": true,
-	"vintage_start_in_command_mode": true,
-	"phpunit.options": {
-		"testdox": false,	
-	},
+	"vintage_start_in_command_mode": true
 }
