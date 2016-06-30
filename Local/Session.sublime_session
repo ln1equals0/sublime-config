@@ -3,26 +3,28 @@
 	[
 		"/Users/Capricorn/Code/drag_drop",
 		"/Users/Capricorn/Code/laravel_testing",
-		"/Users/Capricorn/Code/webcam_video",
-		"/Users/Capricorn/Code/vue_laravel",
-		"/Users/Capricorn/Code/uploader",
+		"/Users/Capricorn/Documents/BLE_Android/BluetoothLe_Test_V3.2",
 		"/Users/Capricorn/Code/real_time",
+		"/Users/Capricorn/Code/vue_laravel",
+		"/Users/Capricorn/Code/email-confirmation",
+		"/Users/Capricorn/Code/auth-jwt",
+		"/Users/Capricorn/Code/webcam_video",
+		"/Users/Capricorn/Code/uploader",
 		"/Users/Capricorn/Code/chat_official",
 		"/Users/Capricorn/Code/testjs",
 		"/Users/Capricorn/Code/auth-lesson",
 		"/Users/Capricorn/Code/chat-lesson",
 		"/Users/Capricorn/Code/real-time",
-		"/Users/Capricorn/Code/email-confirmation",
 		"/Users/Capricorn/Code/factory",
 		"/Users/Capricorn/Code/Vue",
 		"/Users/Capricorn/Code"
 	],
 	"last_version": 3114,
-	"last_window_id": 258,
+	"last_window_id": 274,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 929.0,
+		"new_window_height": 1035.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -30,8 +32,32 @@
 				"selected_items":
 				[
 					[
+						"scr",
+						"script	HTML - Script"
+					],
+					[
+						"script",
+						"script	HTML - Script"
+					],
+					[
+						"temp",
+						"template:grids	grids"
+					],
+					[
 						"vue",
-						"vueccomputed	Vue computed props"
+						"vue-cdn	vue-cdn"
+					],
+					[
+						"Request",
+						"Request::ips	Returns the client IP addresses."
+					],
+					[
+						"Auth",
+						"Auth::user	Get the currently authenticated user."
+					],
+					[
+						"meta",
+						"meta_token	meta_token"
 					],
 					[
 						"button",
@@ -48,10 +74,6 @@
 					[
 						"uplo",
 						"uploadFiles"
-					],
-					[
-						"script",
-						"script	Tag"
 					],
 					[
 						"flipIn",
@@ -253,17 +275,33 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 354.0,
-				"last_filter": "ins",
+				"height": 212.0,
+				"last_filter": "syntax css",
 				"selected_items":
 				[
 					[
-						"ins",
+						"syntax css",
+						"Set Syntax: CSS"
+					],
+					[
+						"install",
 						"Package Control: Install Package"
 					],
 					[
 						"remove",
 						"Package Control: Remove Package"
+					],
+					[
+						"update",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"makecon",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
 					],
 					[
 						"migra",
@@ -276,10 +314,6 @@
 					[
 						"artisan ser",
 						"Laravel Artisan 5: Serve"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"git",
@@ -320,10 +354,6 @@
 					[
 						"emmet",
 						"Emmet: Update Image Size"
-					],
-					[
-						"update",
-						"Package Control: Upgrade/Overwrite All Packages"
 					],
 					[
 						"disable",
@@ -578,7 +608,7 @@
 						"Set Syntax: JavaScript"
 					]
 				],
-				"width": 503.0
+				"width": 575.0
 			},
 			"console":
 			{
@@ -606,13 +636,31 @@
 			},
 			"file_history":
 			[
+				"/Users/Capricorn/Code/laravel_testing/tests/ExampleTest.php",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTransactions.php",
+				"/Users/Capricorn/Code/laravel_testing/app/Product.php",
+				"/Users/Capricorn/Code/laravel_testing/resources/views/welcome.blade.php",
+				"/Users/Capricorn/Code/laravel_testing/resources/assets/sass/app.scss",
+				"/Users/Capricorn/Documents/BLE_Android/BluetoothLe_Test_V3.2/Application/src/main/java/com/example/android/bluetoothlegatt/BluetoothLeService.java",
+				"/Users/Capricorn/Documents/BLE_Android/BluetoothLe_Test_V3.2/Application/src/main/java/com/example/android/bluetoothlegatt/DeviceControlActivity.java",
+				"/Users/Capricorn/Documents/BLE_Android/BluetoothLe_Test_V3.2/.google/packaging.yaml",
+				"/Users/Capricorn/Code/real_time/index.js",
+				"/Users/Capricorn/Code/real_time/index.html",
+				"/Users/Capricorn/Code/vue_laravel/resources/assets/js/components/alert.vue",
+				"/Users/Capricorn/Code/drag_drop/node_modules/ast-types/main.js",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/Users/Capricorn/Code/drag_drop/gulpfile.js",
+				"/Users/Capricorn/Code/drag_drop/resources/assets/js",
+				"/Users/Capricorn/Code/drag_drop/vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Dashboard.php",
+				"/Users/Capricorn/Code/drag_drop/resources/views/welcome.blade.php",
+				"/Users/Capricorn/.zshrc",
+				"/Users/Capricorn/.oh-my-zsh/themes/agnoster.zsh-theme",
 				"/usr/local/etc/php/7.0/php.ini",
 				"/Users/Capricorn/Code/laravel_testing/app/Product",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunit/Preferences.sublime-settings",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/Capricorn/Code/laravel_testing/resources/views/welcome.blade.php",
 				"/Users/Capricorn/Code/laravel_testing/composer.json",
-				"/Users/Capricorn/Code/laravel_testing/tests/ExampleTest.php",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunitkit/Preferences.sublime-settings",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunitkit/Default (OSX).sublime-keymap",
@@ -623,8 +671,6 @@
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/meta_token.sublime-snippet",
 				"/Users/Capricorn/Downloads/laravel-blade-master/blade.sublime-syntax",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
-				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
-				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/blade.sublime-settings",
 				"/Users/Capricorn/Code/drag_drop/resources/views/twbs.blade.php",
 				"/Users/Capricorn/Code/drag_drop/_ide_helper.php",
@@ -633,8 +679,6 @@
 				"/Users/Capricorn/Code/Vue/index7.html",
 				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/vue-resource-cdn.sublime-snippet",
 				"/Users/Capricorn/Code/vue_laravel/node_modules/vueify/test/fixtures/jade.vue",
-				"/Users/Capricorn/Code/real_time/index.js",
-				"/Users/Capricorn/Code/real_time/index.html",
 				"/Users/Capricorn/Code/vue_laravel/public/js/main.js",
 				"/Users/Capricorn/Code/chat_official/index.js",
 				"/Users/Capricorn/Code/testjs/readme.md",
@@ -669,7 +713,6 @@
 				"/Users/Capricorn/Code/vue_laravel/database/seeds/TasksTableSeeder.ph",
 				"/Users/Capricorn/Code/vue_laravel/database/seeds/TasksTableSeeder",
 				"/Users/Capricorn/.homestead/homestead.yaml",
-				"/Users/Capricorn/.zshrc",
 				"/etc/hosts",
 				"/Users/Capricorn/Code/Vue/v.js",
 				"/Users/Capricorn/Code/chat-lesson/index.html",
@@ -720,20 +763,7 @@
 				"/Users/Capricorn/Documents/Audio_Spektrum/cmsis_lib/include/stm32f4xx_gpio.h",
 				"/Users/Capricorn/Documents/Audio_Spektrum/main.c",
 				"/Users/Capricorn/Code/factory/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
-				"/Users/Capricorn/Code/factory/database/migrations/2016_05_10_202612_create_lessons_table.php",
-				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/Database_Seeder_Function.sublime-snippet",
-				"/Users/Capricorn/Code/factory/database/seeds/LessonsTableSeeder.php",
-				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/Capricorn/Code/factory/database/seeds/UsersTableSeeder.php",
-				"/Users/Capricorn/Code/factory/database/seeds/DatabaseSeeder.php",
-				"/Users/Capricorn/Code/factory/database/factories/ModelFactory.php",
-				"/Users/Capricorn/Code/factory/resources/views/welcome.blade.php",
-				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/Database_Seeder_Function",
-				"/Users/Capricorn/c.cpp",
-				"/Users/Capricorn/Code/project/app/Http/Controllers/appcontroller.php",
-				"/Users/Capricorn/.tumx.conf",
-				"/Users/Capricorn/.vimrc",
-				"/Users/Capricorn/.tmux.conf"
+				"/Users/Capricorn/Code/factory/database/migrations/2016_05_10_202612_create_lessons_table.php"
 			],
 			"find":
 			{
@@ -752,6 +782,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"();\n",
 					"memory",
 					"size",
 					"upload",
@@ -848,24 +879,80 @@
 				"selected_items":
 				[
 					[
+						"app.c",
+						"resources/assets/sass/app.scss"
+					],
+					[
 						"welcom",
 						"resources/views/welcome.blade.php"
 					],
 					[
-						"comp",
-						"composer.json"
+						"prod",
+						"app/Product.php"
+					],
+					[
+						"ex",
+						"tests/ExampleTest.php"
+					],
+					[
+						"welcome",
+						"resources/views/welcome.blade.php"
 					],
 					[
 						"compos",
 						"composer.json"
 					],
 					[
-						"wel",
-						"resources/views/welcome.blade.php"
+						".java",
+						"libs/pull/src/com/handmark/pulltorefresh/library/internal/Utils.java"
+					],
+					[
+						"hell",
+						"resources/views/hello.blade.php"
+					],
+					[
+						"alert",
+						"resources/assets/js/components/alert.vue"
+					],
+					[
+						"dro",
+						"resources/assets/js/components/dropzone.vue"
+					],
+					[
+						"main.j",
+						"node_modules/ast-types/main.js"
+					],
+					[
+						"gulp",
+						"gulpfile.js"
+					],
+					[
+						"jwt",
+						"config/jwt.php"
+					],
+					[
+						"authen",
+						"app/Http/Controllers/AuthenticateController.php"
 					],
 					[
 						"route",
 						"app/Http/routes.php"
+					],
+					[
+						".js",
+						"gulpfile.js"
+					],
+					[
+						"comp",
+						"composer.json"
+					],
+					[
+						"dashbo",
+						"vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Dashboard.php"
+					],
+					[
+						"wel",
+						"resources/views/welcome.blade.php"
 					],
 					[
 						"upload",
@@ -880,16 +967,8 @@
 						"app/Product.php"
 					],
 					[
-						"ex",
-						"tests/ExampleTest.php"
-					],
-					[
 						"examp",
 						"tests/ExampleTest.php"
-					],
-					[
-						"welcome",
-						"resources/views/welcome.blade.php"
 					],
 					[
 						"exam",
@@ -952,20 +1031,8 @@
 						"gulpfile.js"
 					],
 					[
-						"gulp",
-						"gulpfile.js"
-					],
-					[
-						"hell",
-						"resources/views/hello.blade.php"
-					],
-					[
 						"sytle",
 						"resources/assets/sass/components/sytle.scss"
-					],
-					[
-						"alert",
-						"resources/assets/js/components/alert.vue"
 					],
 					[
 						"hello",
@@ -1246,7 +1313,7 @@
 			{
 			}
 		},
-		"new_window_width": 1436.0
+		"new_window_width": 1535.0
 	},
 	"windows":
 	[
