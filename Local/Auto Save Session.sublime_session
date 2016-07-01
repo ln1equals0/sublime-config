@@ -1,0 +1,2864 @@
+{
+	"folder_history":
+	[
+		"/Users/Capricorn/Code/auth-lesson",
+		"/Users/Capricorn/Code/real_time",
+		"/Users/Capricorn/Code/email-confirmation",
+		"/Users/Capricorn/Code/drag_drop",
+		"/Users/Capricorn/Code/laravel_testing"
+	],
+	"last_version": 3114,
+	"last_window_id": 292,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 855.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sub",
+						"substr_count〔function〕"
+					],
+					[
+						"bg",
+						"bg+	background: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+					],
+					[
+						"Storage",
+						"Storage::put	Store a file on disk"
+					],
+					[
+						"scr",
+						"script	HTML - Script"
+					],
+					[
+						"script",
+						"script	HTML - Script"
+					],
+					[
+						"temp",
+						"template:grids	grids"
+					],
+					[
+						"vue",
+						"vue-cdn	vue-cdn"
+					],
+					[
+						"Request",
+						"Request::ips	Returns the client IP addresses."
+					],
+					[
+						"Auth",
+						"Auth::user	Get the currently authenticated user."
+					],
+					[
+						"meta",
+						"meta_token	meta_token"
+					],
+					[
+						"button",
+						"button:block	block"
+					],
+					[
+						"template",
+						"template:cdn	cdn"
+					],
+					[
+						"uplo",
+						"uploadFiles"
+					],
+					[
+						"flipIn",
+						"flipInX	(alert.vue)"
+					],
+					[
+						"flip",
+						"flipInY	(alert.vue)"
+					],
+					[
+						"bs3",
+						"bs3-image	bs3-image"
+					],
+					[
+						"Task",
+						"TasksTableSeeder	(TasksTableSeeder.php)"
+					],
+					[
+						"bs3b",
+						"bs3-button	bs3-button"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"scri",
+						"script	Tag"
+					],
+					[
+						"pad",
+						"padding-right"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"e",
+						"each	blade-each"
+					],
+					[
+						"conf",
+						"confirmEmail"
+					],
+					[
+						"bs3for",
+						"bs3-form	bs3-form"
+					],
+					[
+						"bs3form",
+						"bs3-form:label	bs3-form-label"
+					],
+					[
+						"bs3cdn",
+						"bs3-cdn:css	bs3-cdn-css"
+					],
+					[
+						"Regist",
+						"RegistrationController@register"
+					],
+					[
+						"list",
+						"list-group-item"
+					],
+					[
+						"bs3pan",
+						"bs3-panel:info	bs3-panel-info"
+					],
+					[
+						"timocinit",
+						"TIM_OC2Init"
+					],
+					[
+						"ta",
+						"tabel_to_truncate"
+					],
+					[
+						"bs3html",
+						"bs3-thumbnail	bs3-thumbnail"
+					],
+					[
+						"bs3passw",
+						"bs3-input:password:h	bs3-input-password-h"
+					],
+					[
+						"if",
+						"if?	$… = ( … ) ? … : …"
+					],
+					[
+						"messa",
+						"messages"
+					],
+					[
+						"mth",
+						"mth	PHP Method"
+					],
+					[
+						"An",
+						"Anzahl_Merk"
+					],
+					[
+						"ist",
+						"Ist_Opt"
+					],
+					[
+						"Mer",
+						"Merkmale"
+					],
+					[
+						"Anzha",
+						"Anzahl_opt"
+					],
+					[
+						"Anzah",
+						"Anzahl_Merk"
+					],
+					[
+						"Anz",
+						"Anzahl_Merk"
+					],
+					[
+						"kach",
+						"kachel_x"
+					],
+					[
+						"kache",
+						"kachel_x"
+					],
+					[
+						"Hxy_",
+						"Hxy_optimized"
+					],
+					[
+						"length",
+						"length_optimized"
+					],
+					[
+						"Reque",
+						"Request::ajax	Determine if the request is the result of an AJAX call."
+					],
+					[
+						"card",
+						"App\\Card"
+					],
+					[
+						"R",
+						"JsonResponse"
+					],
+					[
+						"iluu",
+						"IlluminateQueueClosure"
+					],
+					[
+						"Illu",
+						"Illuminate\\Foundation\\Console\\IlluminateCaster"
+					],
+					[
+						"Redirect",
+						"Redirect::action	Redirect to a controller action, with parameters"
+					],
+					[
+						"Redirec",
+						"Redirect::back	Redirect to URL, Route or Controller"
+					],
+					[
+						"Mat",
+						"Material-Theme"
+					],
+					[
+						"PID",
+						"PID_ROL"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/build/PHP-PSR2.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "remove",
+				"selected_items":
+				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"case",
+						"Convert Case: camelCase"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"packate",
+						"Package Control: Remove Package"
+					],
+					[
+						"makemod",
+						"Laravel Artisan 5: Make:Model"
+					],
+					[
+						"syntax css",
+						"Set Syntax: CSS"
+					],
+					[
+						"update",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"makecon",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"migra",
+						"Laravel Artisan 5: Migrate"
+					],
+					[
+						"artisanmakeauth",
+						"Laravel Artisan 5: Make:Auth"
+					],
+					[
+						"artisan ser",
+						"Laravel Artisan 5: Serve"
+					],
+					[
+						"git",
+						"GitGutter: Compare Against Commit"
+					],
+					[
+						"rename",
+						"ANF: Rename File"
+					],
+					[
+						"phpunit",
+						"PHPUnit: Toggle --testdox Option"
+					],
+					[
+						"run",
+						"PHPUnit: Run All Tests"
+					],
+					[
+						"phpunit re",
+						"PHPUnit: Run Single Test"
+					],
+					[
+						"package",
+						"Package Control: Disable Package"
+					],
+					[
+						"php co",
+						"PHPCompanion:Find Use"
+					],
+					[
+						"emmet",
+						"Emmet: Update Image Size"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"makeconto",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"artisanmakecon",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"cdn",
+						"Cdnjs: Import Script"
+					],
+					[
+						"phpuni",
+						"PHPUnit: Test current file"
+					],
+					[
+						":d",
+						"File: Delete"
+					],
+					[
+						"change",
+						"ChangeQuotes"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"fmt",
+						"phpfmt: toggle PSR2"
+					],
+					[
+						"Snippet: mth",
+						"Snippet: PHP Method"
+					],
+					[
+						"controller",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"make cont",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"make conto",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"getter s",
+						"PHP: Generate Getters and Setters"
+					],
+					[
+						"git ",
+						"GitGutter: Compare Against Commit"
+					],
+					[
+						"make mode",
+						"Markdown Preview: Open Markdown Cheat sheet"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"renmae",
+						"ANF: Rename File"
+					],
+					[
+						"toggle open",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"getter and ",
+						"PHP: Generate Getters and Setters"
+					],
+					[
+						"open",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"matl",
+						"Set Syntax: MATLAB"
+					],
+					[
+						"matla",
+						"Set Syntax: MATLAB"
+					],
+					[
+						"color",
+						"Colorsublime: Browse Themes"
+					],
+					[
+						"gettersett",
+						"PHP: Generate Getters and Setters"
+					],
+					[
+						"snippet",
+						"Snippet: GET['…']"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"getter",
+						"PHP: Generate Getters"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"matlab",
+						"Set Syntax: MATLAB"
+					],
+					[
+						"padaw",
+						"Padawan: Stop Server"
+					],
+					[
+						"server",
+						"Padawan: Start Server"
+					],
+					[
+						"index",
+						"Padawan: Generate Index"
+					],
+					[
+						"generate inde",
+						"Padawan: Generate Index"
+					],
+					[
+						"padawan",
+						"Padawan: Generate Index"
+					],
+					[
+						"delte",
+						"ANF: Delete Current File"
+					],
+					[
+						"delet",
+						"ANF: Delete Current File"
+					],
+					[
+						"gen",
+						"PHP: Generate Getters and Setters"
+					],
+					[
+						"snip clas",
+						"Snippet: Class"
+					],
+					[
+						"php gener",
+						"PHP: Generate Getters and Setters"
+					],
+					[
+						"php getter",
+						"Snippet: Add a single instance of the given needle to the haystack. Remove any extra instances."
+					],
+					[
+						"package remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"dele",
+						"ANF: Delete Current File"
+					],
+					[
+						"anf",
+						"ANF: New File"
+					],
+					[
+						"delete",
+						"ANF: Delete Current File"
+					],
+					[
+						"ne",
+						"File: New View into File"
+					],
+					[
+						"toggle mini",
+						"View: Toggle Minimap"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"toggle sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"artian makecont",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"arti cont",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"sideba",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"c",
+						"Set Syntax: C++"
+					],
+					[
+						"save as",
+						"Project: Save As"
+					],
+					[
+						"buil",
+						"Build: Build"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					]
+				],
+				"width": 906.0
+			},
+			"console":
+			{
+				"height": 400.0,
+				"history":
+				[
+					"clc",
+					"clear",
+					"l",
+					"cd",
+					"ls",
+					"`ls",
+					"ls",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/Capricorn/Code/auth-lesson/app/Http/routes.php",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/CodeComplice/Default (OSX).sublime-keymap",
+				"/Users/Capricorn/Code/real_time/index.js",
+				"/Users/Capricorn/Code/email-confirmation/resources/assets/sass/app.scss",
+				"/Users/Capricorn/Code/email-confirmation/app/Services/Mailers/AppMailer.php",
+				"/Users/Capricorn/Code/email-confirmation/app/Http/Controllers/SessionsController.php",
+				"/Users/Capricorn/Code/email-confirmation/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php",
+				"/Users/Capricorn/Code/laravel_testing/resources/views/welcome.blade.php",
+				"/Users/Capricorn/Code/laravel_testing/app/Http/routes.php",
+				"/Users/Capricorn/Code/laravel_testing/app/User.php",
+				"/Users/Capricorn/Code/laravel_testing/app/Console/Commands/Inspire.php",
+				"/Users/Capricorn/Code/laravel_testing/resources/views/feedback.blade.php",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Terminal/iTerm2.sh",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Terminal (OSX).sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/Users/Capricorn/Code/laravel_testing/resources/assets/sass/app.scss",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/CodeComplice/CodeComplice.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/CodeComplice.sublime-settings",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-mousemap",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/Users/Capricorn/Code/real_time/file.js",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php",
+				"/Users/Capricorn/Code/laravel_testing/app/Card.php",
+				"/Users/Capricorn/Code/laravel_testing/database/migrations/2016_06_30_201928_create_cards_table.php",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php",
+				"/Users/Capricorn/Code/drag_drop/app/Http/routes.php",
+				"/Users/Capricorn/Code/drag_drop/resources/assets/sass/app.scss",
+				"/Users/Capricorn/Code/laravel_testing/tests/ExampleTest.php",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTransactions.php",
+				"/Users/Capricorn/Code/laravel_testing/app/Product.php",
+				"/Users/Capricorn/Documents/BLE_Android/BluetoothLe_Test_V3.2/Application/src/main/java/com/example/android/bluetoothlegatt/BluetoothLeService.java",
+				"/Users/Capricorn/Documents/BLE_Android/BluetoothLe_Test_V3.2/Application/src/main/java/com/example/android/bluetoothlegatt/DeviceControlActivity.java",
+				"/Users/Capricorn/Documents/BLE_Android/BluetoothLe_Test_V3.2/.google/packaging.yaml",
+				"/Users/Capricorn/Code/real_time/index.html",
+				"/Users/Capricorn/Code/vue_laravel/resources/assets/js/components/alert.vue",
+				"/Users/Capricorn/Code/drag_drop/node_modules/ast-types/main.js",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/Users/Capricorn/Code/drag_drop/gulpfile.js",
+				"/Users/Capricorn/Code/drag_drop/resources/assets/js",
+				"/Users/Capricorn/Code/drag_drop/vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Dashboard.php",
+				"/Users/Capricorn/Code/drag_drop/resources/views/welcome.blade.php",
+				"/Users/Capricorn/.zshrc",
+				"/Users/Capricorn/.oh-my-zsh/themes/agnoster.zsh-theme",
+				"/usr/local/etc/php/7.0/php.ini",
+				"/Users/Capricorn/Code/laravel_testing/app/Product",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunit/Preferences.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/Capricorn/Code/laravel_testing/composer.json",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunitkit/Preferences.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunitkit/Default (OSX).sublime-keymap",
+				"/Users/Capricorn/Code/laravel_testing/tests/TestCase.php",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/php-grammar/README.md",
+				"/Users/Capricorn/Code/webcam_video/index.html",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/vue_header.sublime-snippet",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/meta_token.sublime-snippet",
+				"/Users/Capricorn/Downloads/laravel-blade-master/blade.sublime-syntax",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/blade.sublime-settings",
+				"/Users/Capricorn/Code/drag_drop/resources/views/twbs.blade.php",
+				"/Users/Capricorn/Code/drag_drop/_ide_helper.php",
+				"/Users/Capricorn/Code/uploader/app/Http/Controllers/UploadController.php",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/vue-cdn.sublime-snippet",
+				"/Users/Capricorn/Code/Vue/index7.html",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/vue-resource-cdn.sublime-snippet",
+				"/Users/Capricorn/Code/vue_laravel/node_modules/vueify/test/fixtures/jade.vue",
+				"/Users/Capricorn/Code/vue_laravel/public/js/main.js",
+				"/Users/Capricorn/Code/chat_official/index.js",
+				"/Users/Capricorn/Code/testjs/readme.md",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/vue-cdn",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Sublime-Text--cdnjs/cdnjs.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Cache/SimplePHPUnit/SimplePHPUnit.hidden-tmTheme.cache",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Installed Packages/Fix Mac Path.sublime-package",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/SimplePHPUnit/SimplePHPUnit.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/SimplePHPUnit.sublime-settings",
+				"/Users/Capricorn/Code/auth-lesson/tests/ExampleTest.php",
+				"/Users/Capricorn/Code/auth-lesson/tests/TestCase.php",
+				"/Users/Capricorn/Code/real_time/style.css",
+				"/Users/Capricorn/Code/vue_laravel/public/index.php",
+				"/Users/Capricorn/Code/vue_laravel/public/css/app.css",
+				"/Users/Capricorn/Code/vue_laravel/resources/assets/sass/components/sytle.scss",
+				"/Users/Capricorn/Code/chat-lesson/package.json",
+				"/Users/Capricorn/Code/vue_laravel/resources/assets/js/ss.js",
+				"/Users/Capricorn/Code/vue_laravel/resources/views/welcome.blade.php",
+				"/Users/Capricorn/Code/vue_laravel/resources/assets/sass/app.scss",
+				"/Users/Capricorn/Code/vue_laravel/app/Http/routes.php",
+				"/Users/Capricorn/Code/vue_laravel/resources/assets/js",
+				"/Users/Capricorn/Code/Vue/index.html",
+				"/Users/Capricorn/Code/vue_laravel/public/js/alert.js",
+				"/Users/Capricorn/Code/Vue/css/alert.css",
+				"/Users/Capricorn/alert.js",
+				"/Users/Capricorn/index.html",
+				"/Users/Capricorn/Code/vue_laravel/database/seeds/DatabaseSeeder.php",
+				"/Users/Capricorn/Code/vue_laravel/database/seeds/TasksTableSeeder.php",
+				"/Users/Capricorn/Code/vue_laravel/database/factories/ModelFactory.php",
+				"/Users/Capricorn/Code/vue_laravel/.env",
+				"/Users/Capricorn/Code/vue_laravel/database/migrations/2016_06_16_121424_create_tasks_table.php",
+				"/Users/Capricorn/Code/vue_laravel/database/seeds/TasksTableSeeder.ph",
+				"/Users/Capricorn/Code/vue_laravel/database/seeds/TasksTableSeeder",
+				"/Users/Capricorn/.homestead/homestead.yaml",
+				"/etc/hosts",
+				"/Users/Capricorn/Code/Vue/v.js",
+				"/Users/Capricorn/Code/chat-lesson/index.html",
+				"/Users/Capricorn/Code/Vue/index3.html",
+				"/Users/Capricorn/Code/Vue/main.js",
+				"/Users/Capricorn/Code/email-confirmation/app/Http/routes.php",
+				"/Users/Capricorn/Code/Vue/index4.html",
+				"/Users/Capricorn/Code/Vue/index2.html",
+				"/Users/Capricorn/Code/Vue/style.css",
+				"/Users/Capricorn/Code/email-confirmation/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+				"/Users/Capricorn/Code/factory/app/Http/routes.php",
+				"/Users/Capricorn/Code/auth-lesson/app/Http/Controllers/Controller.php",
+				"/Users/Capricorn/Code/Vue/done.html",
+				"/Users/Capricorn/done.html",
+				"/Users/Capricorn/Code/email-confirmation/database/factories/ModelFactory.php",
+				"/Users/Capricorn/Code/email-confirmation/vendor/phpunit/phpunit/src/Framework/TestSuite.php",
+				"/Users/Capricorn/Code/email-confirmation/resources/views/auth/dashboard.blade.php",
+				"/Users/Capricorn/Code/email-confirmation/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\n}",
+					"();\n",
+					"memory",
+					"size",
+					"upload",
+					"agej",
+					"age",
+					"get_file_contents",
+					" }}",
+					"app",
+					"\n<",
+					"index",
+					"transition",
+					"strong",
+					"Success",
+					"strong",
+					"        .",
+					"prevent",
+					"140",
+					"80",
+					"tst",
+					"You are Logged in.",
+					"debug",
+					"xdebug",
+					"user",
+					"get",
+					"();\n",
+					"ctrl",
+					"z",
+					"super+s",
+					"esc",
+					"factory",
+					"cin",
+					"super+b",
+					");\n",
+					"!",
+					"---",
+					"\"n\"",
+					"lastname",
+					"format",
+					"personName",
+					"Name",
+					"personName",
+					"key",
+					"app\\http\\",
+					"gcode_process_command",
+					"Vibration",
+					"turnonled",
+					"pgm_read",
+					"thr",
+					"ls",
+					"PID_POS",
+					"PID_PIT",
+					"PID_ROL"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 39.0
+			},
+			"input":
+			{
+				"height": 74.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 244.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 74.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"route",
+						"app/Http/routes.php"
+					],
+					[
+						"inde",
+						"index.js"
+					],
+					[
+						"app.",
+						"resources/assets/sass/app.scss"
+					],
+					[
+						"session",
+						"app/Http/Controllers/SessionsController.php"
+					],
+					[
+						"appmai",
+						"app/Services/Mailers/AppMailer.php"
+					],
+					[
+						"app",
+						"resources/assets/sass/app.scss"
+					],
+					[
+						"welcom",
+						"resources/views/welcome.blade.php"
+					],
+					[
+						"user",
+						"app/User.php"
+					],
+					[
+						"wel",
+						"resources/views/welcome.blade.php"
+					],
+					[
+						"app.c",
+						"resources/assets/sass/app.scss"
+					],
+					[
+						"hashser",
+						"vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php"
+					],
+					[
+						"index.html",
+						"index.html"
+					],
+					[
+						"card",
+						"app/Card.php"
+					],
+					[
+						"app.cs",
+						"resources/assets/sass/app.scss"
+					],
+					[
+						"prod",
+						"app/Product.php"
+					],
+					[
+						"ex",
+						"tests/ExampleTest.php"
+					],
+					[
+						"welcome",
+						"resources/views/welcome.blade.php"
+					],
+					[
+						"compos",
+						"composer.json"
+					],
+					[
+						".java",
+						"libs/pull/src/com/handmark/pulltorefresh/library/internal/Utils.java"
+					],
+					[
+						"hell",
+						"resources/views/hello.blade.php"
+					],
+					[
+						"alert",
+						"resources/assets/js/components/alert.vue"
+					],
+					[
+						"dro",
+						"resources/assets/js/components/dropzone.vue"
+					],
+					[
+						"main.j",
+						"node_modules/ast-types/main.js"
+					],
+					[
+						"gulp",
+						"gulpfile.js"
+					],
+					[
+						"jwt",
+						"config/jwt.php"
+					],
+					[
+						"authen",
+						"app/Http/Controllers/AuthenticateController.php"
+					],
+					[
+						".js",
+						"gulpfile.js"
+					],
+					[
+						"comp",
+						"composer.json"
+					],
+					[
+						"dashbo",
+						"vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Dashboard.php"
+					],
+					[
+						"upload",
+						"app/Http/Controllers/UploadController.php"
+					],
+					[
+						"pro",
+						"app/Product.php"
+					],
+					[
+						"examp",
+						"tests/ExampleTest.php"
+					],
+					[
+						"exam",
+						"tests/ExampleTest.php"
+					],
+					[
+						"test",
+						"tests/TestCase.php"
+					],
+					[
+						"twbs",
+						"resources/views/twbs.blade.php"
+					],
+					[
+						"welc",
+						"resources/views/welcome.blade.php"
+					],
+					[
+						"ide",
+						"_ide_helper.php"
+					],
+					[
+						"uplo",
+						"app/Http/Controllers/UploadController.php"
+					],
+					[
+						"alert.vue",
+						"resources/assets/js/components/alert.vue"
+					],
+					[
+						"main",
+						"resources/assets/js/main.js"
+					],
+					[
+						".vue",
+						"node_modules/vueify/test/fixtures/jade.vue"
+					],
+					[
+						"example",
+						"tests/ExampleTest.php"
+					],
+					[
+						"testexamp",
+						"tests/ExampleTest.php"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"styl",
+						"style.css"
+					],
+					[
+						"gul",
+						"gulpfile.js"
+					],
+					[
+						"sytle",
+						"resources/assets/sass/components/sytle.scss"
+					],
+					[
+						"hello",
+						"resources/views/hello.blade.php"
+					],
+					[
+						"",
+						"alert.js"
+					],
+					[
+						"mailer",
+						"app/Services/Mailers/AppMailer.php"
+					],
+					[
+						"mail",
+						"vendor/laravel/framework/src/Illuminate/Mail/Mailer.php"
+					],
+					[
+						"email",
+						"vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/views/auth/passwords/email.stub"
+					],
+					[
+						"sy",
+						"style.css"
+					],
+					[
+						"controll",
+						"app/Http/Controllers/Controller.php"
+					],
+					[
+						"authte",
+						"tests/AuthTest.php"
+					],
+					[
+						"dash",
+						"resources/views/auth/dashboard.blade.php"
+					],
+					[
+						"auth",
+						"tests/AuthTest.php"
+					],
+					[
+						"reblad",
+						"resources/views/auth/register.blade.php"
+					],
+					[
+						"dashbl",
+						"resources/views/auth/dashboard.blade.php"
+					],
+					[
+						"regblad",
+						"resources/views/auth/register.blade.php"
+					],
+					[
+						"appblad",
+						"resources/views/app.blade.php"
+					],
+					[
+						"registblad",
+						"resources/views/auth/register.blade.php"
+					],
+					[
+						"regist",
+						"app/Http/Controllers/RegistrationController.php"
+					],
+					[
+						"rout",
+						"app/Http/routes.php"
+					],
+					[
+						"sessionscontroller",
+						"app/Http/Controllers/SessionsController.php"
+					],
+					[
+						"blade",
+						"resources/views/auth/login.blade.php"
+					],
+					[
+						"reg",
+						"resources/views/auth/register.blade.php"
+					],
+					[
+						"aut",
+						"tests/AuthTest.php"
+					],
+					[
+						"sessionsc",
+						"app/Http/Controllers/SessionsController.php"
+					],
+					[
+						"regist.bla",
+						"resources/views/auth/register.blade.php"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						"appmail",
+						"app/Services/Mailers/AppMailer.php"
+					],
+					[
+						"regi",
+						"app/Http/Controllers/RegistrationController.php"
+					],
+					[
+						"autht",
+						"tests/AuthTest.php"
+					],
+					[
+						"authtest",
+						"tests/AuthTest.php"
+					],
+					[
+						"migra",
+						"vendor/laravel/framework/src/Illuminate/Database/Migrations/Migration.php"
+					],
+					[
+						"lesson",
+						"app/Lesson.php"
+					],
+					[
+						"function",
+						"functions.php"
+					],
+					[
+						"cardcont",
+						"app/Http/Controllers/CardsController.php"
+					],
+					[
+						"brad",
+						"config/broadcasting.php"
+					],
+					[
+						"stm",
+						"cmsis_lib/include/stm32f4xx_gpio.h"
+					],
+					[
+						"createless",
+						"database/migrations/2016_05_10_202612_create_lessons_table.php"
+					],
+					[
+						"appcon",
+						"app/Http/Controllers/appcontroller.php"
+					],
+					[
+						"hoem",
+						"Homestead.yaml"
+					],
+					[
+						"note",
+						"app/Http/Controllers/NotesController.php"
+					],
+					[
+						"doit",
+						"app/Http/Controllers/doit.php"
+					],
+					[
+						"compo",
+						"composer.json"
+					],
+					[
+						".css",
+						"vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Template/css/style.css"
+					],
+					[
+						"cards",
+						"app/Http/Controllers/CardsController.php"
+					],
+					[
+						"middle",
+						"vendor/laravel/framework/src/Illuminate/Routing/ControllerMiddlewareOptions.php"
+					],
+					[
+						"conto",
+						"vendor/laravel/framework/src/Illuminate/Routing/ControllerMiddlewareOptions.php"
+					],
+					[
+						"car",
+						"app/Card.php"
+					],
+					[
+						"rou",
+						"app/Http/routes.php"
+					],
+					[
+						"per",
+						"app/Person.php"
+					],
+					[
+						"layout",
+						"resources/views/layout.blade.php"
+					],
+					[
+						"index",
+						"resources/views/cards/index.blade.php"
+					],
+					[
+						"cardon",
+						"project/app/Http/Controllers/CardsController.php"
+					],
+					[
+						"cardcon",
+						"app/Http/Controllers/CardsController.php"
+					],
+					[
+						".scss",
+						"project/resources/assets/sass/app.scss"
+					],
+					[
+						"harris",
+						"HA1-2/harris_detektor.m"
+					],
+					[
+						"controlle",
+						"app/Http/Controllers/Controller.php"
+					],
+					[
+						"notecont",
+						"app/Http/Controllers/NotesController.php"
+					],
+					[
+						"cacontr",
+						"app/Http/Controllers/CardsController.php"
+					],
+					[
+						"container",
+						"vendor/mockery/mockery/library/Mockery/Container.php"
+					],
+					[
+						"cardsc",
+						"app/Http/Controllers/CardsController.php"
+					],
+					[
+						"mpu",
+						"drivers/wdrivers/MPU6050.c"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "card",
+				"selected_items":
+				[
+					[
+						"card",
+						"Card"
+					]
+				],
+				"width": 937.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 270.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1436.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sub",
+						"substr_count〔function〕"
+					],
+					[
+						"bg",
+						"bg+	background: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+					],
+					[
+						"Storage",
+						"Storage::put	Store a file on disk"
+					],
+					[
+						"scr",
+						"script	HTML - Script"
+					],
+					[
+						"script",
+						"script	HTML - Script"
+					],
+					[
+						"temp",
+						"template:grids	grids"
+					],
+					[
+						"vue",
+						"vue-cdn	vue-cdn"
+					],
+					[
+						"Request",
+						"Request::ips	Returns the client IP addresses."
+					],
+					[
+						"Auth",
+						"Auth::user	Get the currently authenticated user."
+					],
+					[
+						"meta",
+						"meta_token	meta_token"
+					],
+					[
+						"button",
+						"button:block	block"
+					],
+					[
+						"template",
+						"template:cdn	cdn"
+					],
+					[
+						"uplo",
+						"uploadFiles"
+					],
+					[
+						"flipIn",
+						"flipInX	(alert.vue)"
+					],
+					[
+						"flip",
+						"flipInY	(alert.vue)"
+					],
+					[
+						"bs3",
+						"bs3-image	bs3-image"
+					],
+					[
+						"Task",
+						"TasksTableSeeder	(TasksTableSeeder.php)"
+					],
+					[
+						"bs3b",
+						"bs3-button	bs3-button"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"scri",
+						"script	Tag"
+					],
+					[
+						"pad",
+						"padding-right"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"e",
+						"each	blade-each"
+					],
+					[
+						"conf",
+						"confirmEmail"
+					],
+					[
+						"bs3for",
+						"bs3-form	bs3-form"
+					],
+					[
+						"bs3form",
+						"bs3-form:label	bs3-form-label"
+					],
+					[
+						"bs3cdn",
+						"bs3-cdn:css	bs3-cdn-css"
+					],
+					[
+						"Regist",
+						"RegistrationController@register"
+					],
+					[
+						"list",
+						"list-group-item"
+					],
+					[
+						"bs3pan",
+						"bs3-panel:info	bs3-panel-info"
+					],
+					[
+						"timocinit",
+						"TIM_OC2Init"
+					],
+					[
+						"ta",
+						"tabel_to_truncate"
+					],
+					[
+						"bs3html",
+						"bs3-thumbnail	bs3-thumbnail"
+					],
+					[
+						"bs3passw",
+						"bs3-input:password:h	bs3-input-password-h"
+					],
+					[
+						"if",
+						"if?	$… = ( … ) ? … : …"
+					],
+					[
+						"messa",
+						"messages"
+					],
+					[
+						"mth",
+						"mth	PHP Method"
+					],
+					[
+						"An",
+						"Anzahl_Merk"
+					],
+					[
+						"ist",
+						"Ist_Opt"
+					],
+					[
+						"Mer",
+						"Merkmale"
+					],
+					[
+						"Anzha",
+						"Anzahl_opt"
+					],
+					[
+						"Anzah",
+						"Anzahl_Merk"
+					],
+					[
+						"Anz",
+						"Anzahl_Merk"
+					],
+					[
+						"kach",
+						"kachel_x"
+					],
+					[
+						"kache",
+						"kachel_x"
+					],
+					[
+						"Hxy_",
+						"Hxy_optimized"
+					],
+					[
+						"length",
+						"length_optimized"
+					],
+					[
+						"Reque",
+						"Request::ajax	Determine if the request is the result of an AJAX call."
+					],
+					[
+						"card",
+						"App\\Card"
+					],
+					[
+						"R",
+						"JsonResponse"
+					],
+					[
+						"iluu",
+						"IlluminateQueueClosure"
+					],
+					[
+						"Illu",
+						"Illuminate\\Foundation\\Console\\IlluminateCaster"
+					],
+					[
+						"Redirect",
+						"Redirect::action	Redirect to a controller action, with parameters"
+					],
+					[
+						"Redirec",
+						"Redirect::back	Redirect to URL, Route or Controller"
+					],
+					[
+						"Mat",
+						"Material-Theme"
+					],
+					[
+						"PID",
+						"PID_ROL"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/Capricorn/Code/auth-lesson/app/Http/routes.php",
+					"settings":
+					{
+						"buffer_size": 456,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/build/PHP-PSR2.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "remove",
+				"selected_items":
+				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"case",
+						"Convert Case: camelCase"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"packate",
+						"Package Control: Remove Package"
+					],
+					[
+						"makemod",
+						"Laravel Artisan 5: Make:Model"
+					],
+					[
+						"syntax css",
+						"Set Syntax: CSS"
+					],
+					[
+						"update",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"makecon",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"migra",
+						"Laravel Artisan 5: Migrate"
+					],
+					[
+						"artisanmakeauth",
+						"Laravel Artisan 5: Make:Auth"
+					],
+					[
+						"artisan ser",
+						"Laravel Artisan 5: Serve"
+					],
+					[
+						"git",
+						"GitGutter: Compare Against Commit"
+					],
+					[
+						"rename",
+						"ANF: Rename File"
+					],
+					[
+						"phpunit",
+						"PHPUnit: Toggle --testdox Option"
+					],
+					[
+						"run",
+						"PHPUnit: Run All Tests"
+					],
+					[
+						"phpunit re",
+						"PHPUnit: Run Single Test"
+					],
+					[
+						"package",
+						"Package Control: Disable Package"
+					],
+					[
+						"php co",
+						"PHPCompanion:Find Use"
+					],
+					[
+						"emmet",
+						"Emmet: Update Image Size"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"makeconto",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"artisanmakecon",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"cdn",
+						"Cdnjs: Import Script"
+					],
+					[
+						"phpuni",
+						"PHPUnit: Test current file"
+					],
+					[
+						":d",
+						"File: Delete"
+					],
+					[
+						"change",
+						"ChangeQuotes"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"fmt",
+						"phpfmt: toggle PSR2"
+					],
+					[
+						"Snippet: mth",
+						"Snippet: PHP Method"
+					],
+					[
+						"controller",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"make cont",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"make conto",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"getter s",
+						"PHP: Generate Getters and Setters"
+					],
+					[
+						"git ",
+						"GitGutter: Compare Against Commit"
+					],
+					[
+						"make mode",
+						"Markdown Preview: Open Markdown Cheat sheet"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"renmae",
+						"ANF: Rename File"
+					],
+					[
+						"toggle open",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"getter and ",
+						"PHP: Generate Getters and Setters"
+					],
+					[
+						"open",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"matl",
+						"Set Syntax: MATLAB"
+					],
+					[
+						"matla",
+						"Set Syntax: MATLAB"
+					],
+					[
+						"color",
+						"Colorsublime: Browse Themes"
+					],
+					[
+						"gettersett",
+						"PHP: Generate Getters and Setters"
+					],
+					[
+						"snippet",
+						"Snippet: GET['…']"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"getter",
+						"PHP: Generate Getters"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"matlab",
+						"Set Syntax: MATLAB"
+					],
+					[
+						"padaw",
+						"Padawan: Stop Server"
+					],
+					[
+						"server",
+						"Padawan: Start Server"
+					],
+					[
+						"index",
+						"Padawan: Generate Index"
+					],
+					[
+						"generate inde",
+						"Padawan: Generate Index"
+					],
+					[
+						"padawan",
+						"Padawan: Generate Index"
+					],
+					[
+						"delte",
+						"ANF: Delete Current File"
+					],
+					[
+						"delet",
+						"ANF: Delete Current File"
+					],
+					[
+						"gen",
+						"PHP: Generate Getters and Setters"
+					],
+					[
+						"snip clas",
+						"Snippet: Class"
+					],
+					[
+						"php gener",
+						"PHP: Generate Getters and Setters"
+					],
+					[
+						"php getter",
+						"Snippet: Add a single instance of the given needle to the haystack. Remove any extra instances."
+					],
+					[
+						"package remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"dele",
+						"ANF: Delete Current File"
+					],
+					[
+						"anf",
+						"ANF: New File"
+					],
+					[
+						"delete",
+						"ANF: Delete Current File"
+					],
+					[
+						"ne",
+						"File: New View into File"
+					],
+					[
+						"toggle mini",
+						"View: Toggle Minimap"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"toggle sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"artian makecont",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"arti cont",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"sideba",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"c",
+						"Set Syntax: C++"
+					],
+					[
+						"save as",
+						"Project: Save As"
+					],
+					[
+						"buil",
+						"Build: Build"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					]
+				],
+				"width": 906.0
+			},
+			"console":
+			{
+				"height": 400.0,
+				"history":
+				[
+					"clc",
+					"clear",
+					"l",
+					"cd",
+					"ls",
+					"`ls",
+					"ls",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/Capricorn/Code/auth-lesson",
+				"/Users/Capricorn/Code/auth-lesson/app",
+				"/Users/Capricorn/Code/auth-lesson/app/Http"
+			],
+			"file_history":
+			[
+				"/Users/Capricorn/Code/auth-lesson/app/Http/routes.php",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/CodeComplice/Default (OSX).sublime-keymap",
+				"/Users/Capricorn/Code/real_time/index.js",
+				"/Users/Capricorn/Code/email-confirmation/resources/assets/sass/app.scss",
+				"/Users/Capricorn/Code/email-confirmation/app/Services/Mailers/AppMailer.php",
+				"/Users/Capricorn/Code/email-confirmation/app/Http/Controllers/SessionsController.php",
+				"/Users/Capricorn/Code/email-confirmation/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php",
+				"/Users/Capricorn/Code/laravel_testing/resources/views/welcome.blade.php",
+				"/Users/Capricorn/Code/laravel_testing/app/Http/routes.php",
+				"/Users/Capricorn/Code/laravel_testing/app/User.php",
+				"/Users/Capricorn/Code/laravel_testing/app/Console/Commands/Inspire.php",
+				"/Users/Capricorn/Code/laravel_testing/resources/views/feedback.blade.php",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Terminal/iTerm2.sh",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Terminal (OSX).sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/Users/Capricorn/Code/laravel_testing/resources/assets/sass/app.scss",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/CodeComplice/CodeComplice.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/CodeComplice.sublime-settings",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-mousemap",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/Users/Capricorn/Code/real_time/file.js",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php",
+				"/Users/Capricorn/Code/laravel_testing/app/Card.php",
+				"/Users/Capricorn/Code/laravel_testing/database/migrations/2016_06_30_201928_create_cards_table.php",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php",
+				"/Users/Capricorn/Code/drag_drop/app/Http/routes.php",
+				"/Users/Capricorn/Code/drag_drop/resources/assets/sass/app.scss",
+				"/Users/Capricorn/Code/laravel_testing/tests/ExampleTest.php",
+				"/Users/Capricorn/Code/laravel_testing/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTransactions.php",
+				"/Users/Capricorn/Code/laravel_testing/app/Product.php",
+				"/Users/Capricorn/Documents/BLE_Android/BluetoothLe_Test_V3.2/Application/src/main/java/com/example/android/bluetoothlegatt/BluetoothLeService.java",
+				"/Users/Capricorn/Documents/BLE_Android/BluetoothLe_Test_V3.2/Application/src/main/java/com/example/android/bluetoothlegatt/DeviceControlActivity.java",
+				"/Users/Capricorn/Documents/BLE_Android/BluetoothLe_Test_V3.2/.google/packaging.yaml",
+				"/Users/Capricorn/Code/real_time/index.html",
+				"/Users/Capricorn/Code/vue_laravel/resources/assets/js/components/alert.vue",
+				"/Users/Capricorn/Code/drag_drop/node_modules/ast-types/main.js",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/Users/Capricorn/Code/drag_drop/gulpfile.js",
+				"/Users/Capricorn/Code/drag_drop/resources/assets/js",
+				"/Users/Capricorn/Code/drag_drop/vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Dashboard.php",
+				"/Users/Capricorn/Code/drag_drop/resources/views/welcome.blade.php",
+				"/Users/Capricorn/.zshrc",
+				"/Users/Capricorn/.oh-my-zsh/themes/agnoster.zsh-theme",
+				"/usr/local/etc/php/7.0/php.ini",
+				"/Users/Capricorn/Code/laravel_testing/app/Product",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunit/Preferences.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/Capricorn/Code/laravel_testing/composer.json",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunitkit/Preferences.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/phpunitkit/Default (OSX).sublime-keymap",
+				"/Users/Capricorn/Code/laravel_testing/tests/TestCase.php",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/php-grammar/README.md",
+				"/Users/Capricorn/Code/webcam_video/index.html",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/vue_header.sublime-snippet",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/meta_token.sublime-snippet",
+				"/Users/Capricorn/Downloads/laravel-blade-master/blade.sublime-syntax",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/blade.sublime-settings",
+				"/Users/Capricorn/Code/drag_drop/resources/views/twbs.blade.php",
+				"/Users/Capricorn/Code/drag_drop/_ide_helper.php",
+				"/Users/Capricorn/Code/uploader/app/Http/Controllers/UploadController.php",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/vue-cdn.sublime-snippet",
+				"/Users/Capricorn/Code/Vue/index7.html",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/vue-resource-cdn.sublime-snippet",
+				"/Users/Capricorn/Code/vue_laravel/node_modules/vueify/test/fixtures/jade.vue",
+				"/Users/Capricorn/Code/vue_laravel/public/js/main.js",
+				"/Users/Capricorn/Code/chat_official/index.js",
+				"/Users/Capricorn/Code/testjs/readme.md",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/snippets/vue-cdn",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/Sublime-Text--cdnjs/cdnjs.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Cache/SimplePHPUnit/SimplePHPUnit.hidden-tmTheme.cache",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Installed Packages/Fix Mac Path.sublime-package",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/SimplePHPUnit/SimplePHPUnit.sublime-settings",
+				"/Users/Capricorn/Library/Application Support/Sublime Text 3/Packages/User/SimplePHPUnit.sublime-settings",
+				"/Users/Capricorn/Code/auth-lesson/tests/ExampleTest.php",
+				"/Users/Capricorn/Code/auth-lesson/tests/TestCase.php",
+				"/Users/Capricorn/Code/real_time/style.css",
+				"/Users/Capricorn/Code/vue_laravel/public/index.php",
+				"/Users/Capricorn/Code/vue_laravel/public/css/app.css",
+				"/Users/Capricorn/Code/vue_laravel/resources/assets/sass/components/sytle.scss",
+				"/Users/Capricorn/Code/chat-lesson/package.json",
+				"/Users/Capricorn/Code/vue_laravel/resources/assets/js/ss.js",
+				"/Users/Capricorn/Code/vue_laravel/resources/views/welcome.blade.php",
+				"/Users/Capricorn/Code/vue_laravel/resources/assets/sass/app.scss",
+				"/Users/Capricorn/Code/vue_laravel/app/Http/routes.php",
+				"/Users/Capricorn/Code/vue_laravel/resources/assets/js",
+				"/Users/Capricorn/Code/Vue/index.html",
+				"/Users/Capricorn/Code/vue_laravel/public/js/alert.js",
+				"/Users/Capricorn/Code/Vue/css/alert.css",
+				"/Users/Capricorn/alert.js",
+				"/Users/Capricorn/index.html",
+				"/Users/Capricorn/Code/vue_laravel/database/seeds/DatabaseSeeder.php",
+				"/Users/Capricorn/Code/vue_laravel/database/seeds/TasksTableSeeder.php",
+				"/Users/Capricorn/Code/vue_laravel/database/factories/ModelFactory.php",
+				"/Users/Capricorn/Code/vue_laravel/.env",
+				"/Users/Capricorn/Code/vue_laravel/database/migrations/2016_06_16_121424_create_tasks_table.php",
+				"/Users/Capricorn/Code/vue_laravel/database/seeds/TasksTableSeeder.ph",
+				"/Users/Capricorn/Code/vue_laravel/database/seeds/TasksTableSeeder",
+				"/Users/Capricorn/.homestead/homestead.yaml",
+				"/etc/hosts",
+				"/Users/Capricorn/Code/Vue/v.js",
+				"/Users/Capricorn/Code/chat-lesson/index.html",
+				"/Users/Capricorn/Code/Vue/index3.html",
+				"/Users/Capricorn/Code/Vue/main.js",
+				"/Users/Capricorn/Code/email-confirmation/app/Http/routes.php",
+				"/Users/Capricorn/Code/Vue/index4.html",
+				"/Users/Capricorn/Code/Vue/index2.html",
+				"/Users/Capricorn/Code/Vue/style.css",
+				"/Users/Capricorn/Code/email-confirmation/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+				"/Users/Capricorn/Code/factory/app/Http/routes.php",
+				"/Users/Capricorn/Code/auth-lesson/app/Http/Controllers/Controller.php",
+				"/Users/Capricorn/Code/Vue/done.html",
+				"/Users/Capricorn/done.html",
+				"/Users/Capricorn/Code/email-confirmation/database/factories/ModelFactory.php",
+				"/Users/Capricorn/Code/email-confirmation/vendor/phpunit/phpunit/src/Framework/TestSuite.php",
+				"/Users/Capricorn/Code/email-confirmation/resources/views/auth/dashboard.blade.php",
+				"/Users/Capricorn/Code/email-confirmation/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\n}",
+					"();\n",
+					"memory",
+					"size",
+					"upload",
+					"agej",
+					"age",
+					"get_file_contents",
+					" }}",
+					"app",
+					"\n<",
+					"index",
+					"transition",
+					"strong",
+					"Success",
+					"strong",
+					"        .",
+					"prevent",
+					"140",
+					"80",
+					"tst",
+					"You are Logged in.",
+					"debug",
+					"xdebug",
+					"user",
+					"get",
+					"();\n",
+					"ctrl",
+					"z",
+					"super+s",
+					"esc",
+					"factory",
+					"cin",
+					"super+b",
+					");\n",
+					"!",
+					"---",
+					"\"n\"",
+					"lastname",
+					"format",
+					"personName",
+					"Name",
+					"personName",
+					"key",
+					"app\\http\\",
+					"gcode_process_command",
+					"Vibration",
+					"turnonled",
+					"pgm_read",
+					"thr",
+					"ls",
+					"PID_POS",
+					"PID_PIT",
+					"PID_ROL"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/Capricorn/Code/auth-lesson"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/Capricorn/Code/auth-lesson/app/Http/routes.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 456,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										456,
+										456
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/php-grammar/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 39.0
+			},
+			"input":
+			{
+				"height": 74.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 244.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 240 101 1436 877 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 74.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"route",
+						"app/Http/routes.php"
+					],
+					[
+						"inde",
+						"index.js"
+					],
+					[
+						"app.",
+						"resources/assets/sass/app.scss"
+					],
+					[
+						"session",
+						"app/Http/Controllers/SessionsController.php"
+					],
+					[
+						"appmai",
+						"app/Services/Mailers/AppMailer.php"
+					],
+					[
+						"app",
+						"resources/assets/sass/app.scss"
+					],
+					[
+						"welcom",
+						"resources/views/welcome.blade.php"
+					],
+					[
+						"user",
+						"app/User.php"
+					],
+					[
+						"wel",
+						"resources/views/welcome.blade.php"
+					],
+					[
+						"app.c",
+						"resources/assets/sass/app.scss"
+					],
+					[
+						"hashser",
+						"vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php"
+					],
+					[
+						"index.html",
+						"index.html"
+					],
+					[
+						"card",
+						"app/Card.php"
+					],
+					[
+						"app.cs",
+						"resources/assets/sass/app.scss"
+					],
+					[
+						"prod",
+						"app/Product.php"
+					],
+					[
+						"ex",
+						"tests/ExampleTest.php"
+					],
+					[
+						"welcome",
+						"resources/views/welcome.blade.php"
+					],
+					[
+						"compos",
+						"composer.json"
+					],
+					[
+						".java",
+						"libs/pull/src/com/handmark/pulltorefresh/library/internal/Utils.java"
+					],
+					[
+						"hell",
+						"resources/views/hello.blade.php"
+					],
+					[
+						"alert",
+						"resources/assets/js/components/alert.vue"
+					],
+					[
+						"dro",
+						"resources/assets/js/components/dropzone.vue"
+					],
+					[
+						"main.j",
+						"node_modules/ast-types/main.js"
+					],
+					[
+						"gulp",
+						"gulpfile.js"
+					],
+					[
+						"jwt",
+						"config/jwt.php"
+					],
+					[
+						"authen",
+						"app/Http/Controllers/AuthenticateController.php"
+					],
+					[
+						".js",
+						"gulpfile.js"
+					],
+					[
+						"comp",
+						"composer.json"
+					],
+					[
+						"dashbo",
+						"vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Dashboard.php"
+					],
+					[
+						"upload",
+						"app/Http/Controllers/UploadController.php"
+					],
+					[
+						"pro",
+						"app/Product.php"
+					],
+					[
+						"examp",
+						"tests/ExampleTest.php"
+					],
+					[
+						"exam",
+						"tests/ExampleTest.php"
+					],
+					[
+						"test",
+						"tests/TestCase.php"
+					],
+					[
+						"twbs",
+						"resources/views/twbs.blade.php"
+					],
+					[
+						"welc",
+						"resources/views/welcome.blade.php"
+					],
+					[
+						"ide",
+						"_ide_helper.php"
+					],
+					[
+						"uplo",
+						"app/Http/Controllers/UploadController.php"
+					],
+					[
+						"alert.vue",
+						"resources/assets/js/components/alert.vue"
+					],
+					[
+						"main",
+						"resources/assets/js/main.js"
+					],
+					[
+						".vue",
+						"node_modules/vueify/test/fixtures/jade.vue"
+					],
+					[
+						"example",
+						"tests/ExampleTest.php"
+					],
+					[
+						"testexamp",
+						"tests/ExampleTest.php"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"styl",
+						"style.css"
+					],
+					[
+						"gul",
+						"gulpfile.js"
+					],
+					[
+						"sytle",
+						"resources/assets/sass/components/sytle.scss"
+					],
+					[
+						"hello",
+						"resources/views/hello.blade.php"
+					],
+					[
+						"",
+						"alert.js"
+					],
+					[
+						"mailer",
+						"app/Services/Mailers/AppMailer.php"
+					],
+					[
+						"mail",
+						"vendor/laravel/framework/src/Illuminate/Mail/Mailer.php"
+					],
+					[
+						"email",
+						"vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/views/auth/passwords/email.stub"
+					],
+					[
+						"sy",
+						"style.css"
+					],
+					[
+						"controll",
+						"app/Http/Controllers/Controller.php"
+					],
+					[
+						"authte",
+						"tests/AuthTest.php"
+					],
+					[
+						"dash",
+						"resources/views/auth/dashboard.blade.php"
+					],
+					[
+						"auth",
+						"tests/AuthTest.php"
+					],
+					[
+						"reblad",
+						"resources/views/auth/register.blade.php"
+					],
+					[
+						"dashbl",
+						"resources/views/auth/dashboard.blade.php"
+					],
+					[
+						"regblad",
+						"resources/views/auth/register.blade.php"
+					],
+					[
+						"appblad",
+						"resources/views/app.blade.php"
+					],
+					[
+						"registblad",
+						"resources/views/auth/register.blade.php"
+					],
+					[
+						"regist",
+						"app/Http/Controllers/RegistrationController.php"
+					],
+					[
+						"rout",
+						"app/Http/routes.php"
+					],
+					[
+						"sessionscontroller",
+						"app/Http/Controllers/SessionsController.php"
+					],
+					[
+						"blade",
+						"resources/views/auth/login.blade.php"
+					],
+					[
+						"reg",
+						"resources/views/auth/register.blade.php"
+					],
+					[
+						"aut",
+						"tests/AuthTest.php"
+					],
+					[
+						"sessionsc",
+						"app/Http/Controllers/SessionsController.php"
+					],
+					[
+						"regist.bla",
+						"resources/views/auth/register.blade.php"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						"appmail",
+						"app/Services/Mailers/AppMailer.php"
+					],
+					[
+						"regi",
+						"app/Http/Controllers/RegistrationController.php"
+					],
+					[
+						"autht",
+						"tests/AuthTest.php"
+					],
+					[
+						"authtest",
+						"tests/AuthTest.php"
+					],
+					[
+						"migra",
+						"vendor/laravel/framework/src/Illuminate/Database/Migrations/Migration.php"
+					],
+					[
+						"lesson",
+						"app/Lesson.php"
+					],
+					[
+						"function",
+						"functions.php"
+					],
+					[
+						"cardcont",
+						"app/Http/Controllers/CardsController.php"
+					],
+					[
+						"brad",
+						"config/broadcasting.php"
+					],
+					[
+						"stm",
+						"cmsis_lib/include/stm32f4xx_gpio.h"
+					],
+					[
+						"createless",
+						"database/migrations/2016_05_10_202612_create_lessons_table.php"
+					],
+					[
+						"appcon",
+						"app/Http/Controllers/appcontroller.php"
+					],
+					[
+						"hoem",
+						"Homestead.yaml"
+					],
+					[
+						"note",
+						"app/Http/Controllers/NotesController.php"
+					],
+					[
+						"doit",
+						"app/Http/Controllers/doit.php"
+					],
+					[
+						"compo",
+						"composer.json"
+					],
+					[
+						".css",
+						"vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Template/css/style.css"
+					],
+					[
+						"cards",
+						"app/Http/Controllers/CardsController.php"
+					],
+					[
+						"middle",
+						"vendor/laravel/framework/src/Illuminate/Routing/ControllerMiddlewareOptions.php"
+					],
+					[
+						"conto",
+						"vendor/laravel/framework/src/Illuminate/Routing/ControllerMiddlewareOptions.php"
+					],
+					[
+						"car",
+						"app/Card.php"
+					],
+					[
+						"rou",
+						"app/Http/routes.php"
+					],
+					[
+						"per",
+						"app/Person.php"
+					],
+					[
+						"layout",
+						"resources/views/layout.blade.php"
+					],
+					[
+						"index",
+						"resources/views/cards/index.blade.php"
+					],
+					[
+						"cardon",
+						"project/app/Http/Controllers/CardsController.php"
+					],
+					[
+						"cardcon",
+						"app/Http/Controllers/CardsController.php"
+					],
+					[
+						".scss",
+						"project/resources/assets/sass/app.scss"
+					],
+					[
+						"harris",
+						"HA1-2/harris_detektor.m"
+					],
+					[
+						"controlle",
+						"app/Http/Controllers/Controller.php"
+					],
+					[
+						"notecont",
+						"app/Http/Controllers/NotesController.php"
+					],
+					[
+						"cacontr",
+						"app/Http/Controllers/CardsController.php"
+					],
+					[
+						"container",
+						"vendor/mockery/mockery/library/Mockery/Container.php"
+					],
+					[
+						"cardsc",
+						"app/Http/Controllers/CardsController.php"
+					],
+					[
+						"mpu",
+						"drivers/wdrivers/MPU6050.c"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "card",
+				"selected_items":
+				[
+					[
+						"card",
+						"Card"
+					]
+				],
+				"width": 937.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 270.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 292,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

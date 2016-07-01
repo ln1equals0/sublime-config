@@ -1,0 +1,27 @@
+{
+	"JSON":
+	[
+		".bowerrc",
+		".csslintrc",
+		".eslintrc",
+		".jscsrc",
+		".jshintrc",
+		"geojson"
+	],
+	"Shell-Unix-Generic":
+	[
+		"bash",
+		"sh",
+		"zsh"
+	],
+	"XML":
+	[
+		"xml.dist"
+	],
+	"YAML":
+	[
+		".gemrc",
+		"yml",
+		"yml.dist"
+	]
+}
